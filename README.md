@@ -11,8 +11,8 @@ Using the database created by EXPLORE DATA SCIENCE ACADEMY
 
 ### Highlights
 
-![Rate Of Growth Of Cases](https://drive.google.com/open?id=1bswTbpH832uqp0NWGAgVl8PcBDrPSrMj)
+![](Images/Git_1.png)
 
-![SA Metrics](https://drive.google.com/open?id=119xXMET5Ryd2C86VwYJ42swfC5zw29Wt)
+![](Images/Git_2.png)
 
-![Exploring Reproductive Number](https://drive.google.com/open?id=1gwR5g4JugRT7tfSqW4fCsA-BhUb7j828)
+![](Images/Git_3.png)
